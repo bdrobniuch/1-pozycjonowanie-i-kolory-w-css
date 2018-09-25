@@ -1,0 +1,98 @@
+.rectangle .elipse {
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+    position: relative;
+    top: 25%;
+    left: 25%;
+    background-color: red;
+}
+
+.line .rectangle {
+    border: 1px solid #F9F7FA;
+    width: 150px;
+    height: 150px;
+  display: inline-block;
+    background-color: yellow;
+    float: left;
+}
+
+.line {
+    width: 456px;
+    height: 152px;
+    margin: auto;
+}
+
+#r11 {
+   background-color: #FA0200; 
+}
+
+#r12 {
+   background-color: #0100FE; 
+}
+
+#r13 {
+   background-color: #018000; 
+}
+
+#r21 {
+   background-color: #FFFF01; 
+}
+
+#r22 {
+   background-color: #000000; 
+}
+
+#r23 {
+   background-color: #FDA600; 
+}
+
+#r31 {
+   background-color: #7E0088; 
+}
+
+#r32 {
+   background-color: #808080; 
+}
+
+#r33 {
+   background-color: #FEC0CB; 
+}
+
+#e11 {
+   background-color: #FDC1C9; 
+}
+
+#e12 {
+   background-color: #808080; 
+}
+
+#e13 {
+   background-color: #880288; 
+}
+
+#e21 {
+   background-color: #008001; 
+}
+
+#e22 {
+   background-color: #FE0000; 
+}
+
+#e23 {
+   background-color: #0102F3; 
+}
+
+#e31 {
+   background-color: #FDA602; 
+}
+
+#e32 {
+   background-color: #FFFE03; 
+}
+
+#e33 {
+   background-color: #000000; 
+}
+
